@@ -1,0 +1,9 @@
+# Real database credentials - never commit
+config/config.php
+
+# Editor / OS files
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
